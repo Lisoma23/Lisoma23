@@ -1,7 +1,11 @@
-## Bienvenue sur mon profil GitHub ! 👋
-🤓 N'hésitez pas à consulter mes projets. 🤓
+# Bonjour 👋
 
-## À propos de moi
-🌱 Je suis Sofia Hazami, une passionnée de développement web. Actuellement, je suis étudiant en 3e année de BUT informatique et je me spécialise dans le domaine du développement web créatif. Ma curiosité m'a conduit à explorer divers aspects de la programmation, de la cybersécurité et du développement web. 🌱
+Je suis **étudiante en Mastère 1 Développement Full Stack** à l’**Efrei**.
 
-🌍 J'ai eu la chance de participer 3 années de suite à la nuit de l'info. Voici le lien de notre dernier site : https://terra-idle.vercel.app/ 🌍
+Passionnée par le développement web, je me spécialise en **JavaScript**, **Nuxt.js** et **Three.js**.
+
+J’aime créer des interfaces modernes et dynamiques, tout en explorant de nouvelles technologies pour enrichir mes compétences.
+
+Curieuse et rigoureuse, je suis toujours prête à relever de nouveaux défis et à collaborer sur des projets innovants. 🌱
+
+N’hésitez pas à parcourir mes projets et à me contacter !
